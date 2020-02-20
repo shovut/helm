@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  inn:
+  - apiVersion: v2
+    created: "2020-02-20T15:26:14.315646426+03:00"
+    digest: 8327509b5ed2c9d5205437e412f6768332f0bdb9fa7c74b5375b1b444429f793
+    name: inn
+    type: application
+    urls:
+    - https://shovut.github.io/helm/inn-0.1.tgz
+    version: "0.1"
+generated: "2020-02-20T15:26:14.305222521+03:00"
